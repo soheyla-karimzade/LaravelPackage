@@ -1,5 +1,4 @@
 
-
 ## About this laravel project 
 #### This project is made to define two modules:
 - Contact Laravel Package
@@ -8,11 +7,12 @@
 ## get clone this project:
     git clone git@github.com:soheyla-karimzade/LaravelPackage.git
     
-##then config  Contact Laravel Package after clone this project :
+    
+### then config  Contact Laravel Package after clone this project :
     cd ./package
     git clone git@github.com:soheyla-karimzade/contactLaravelPackage.git
     rm -rf contact
     mv contactLaravelPackage contact
     
-##install packages with composer:
-###for installed packages to your project read `REAME.MD` file inside this package directory .
+## install packages with composer:
+### for installed packages to your project read `REAME.MD` file inside this package directory .
