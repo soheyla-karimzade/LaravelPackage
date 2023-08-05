@@ -169,6 +169,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         Daa\Contact\ContactServiceProvider::class,
+        Daa\UserListPagination\UserListPaginationServiceProvider::class,
     ])->toArray(),
 
     /*

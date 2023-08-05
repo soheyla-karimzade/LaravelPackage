@@ -30,7 +30,8 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Daa\\Contact\\": "package/contact/src/"
+            "Daa\\Contact\\": "package/contact/src/",
+            "Daa\\UserListPagination\\": "package/userListPagination/src/"
         }
     },
     "scripts": {
