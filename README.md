@@ -14,7 +14,7 @@
     rm -rf contact
     mv contactLaravelPackage contact
     
-### then config  Contact Laravel Package after clone this project :
+### then config  UserListPagination Laravel Package after clone this project :
     cd ./package
     git clone git@github.com:soheyla-karimzade/UserListPagination.git
     rm -rf userListPagination
