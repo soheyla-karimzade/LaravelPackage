@@ -1,5 +1,5 @@
 [submodule "contactLaravelPackage"]
-	path = package/contact
+	path = contactLaravelPackage
 	url = git@github.com:soheyla-karimzade/contactLaravelPackage.git
 [submodule "UserListPagination"]
 	path = UserListPagination
